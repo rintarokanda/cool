@@ -13,6 +13,8 @@ gem 'devise'
 gem 'mysql2'
 # Dotenv for using environment valiables.
 gem 'dotenv-rails'
+# For using valiables in JavaScropt.
+gem 'gon'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
